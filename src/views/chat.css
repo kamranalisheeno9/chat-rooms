@@ -1,0 +1,33 @@
+.stickToBottom {
+    width: 100% !important;
+    position: fixed !important;
+    bottom: 0 !important;
+}
+
+.chat-screen {
+    height: 10vh;
+    padding: 20px !important;
+    text-align: left;
+    border: 1px solid rgb(231, 231, 231);
+    margin: 20px !important;
+    border-radius: 10px;
+    min-height: 60vh;
+}
+
+.chat-text {
+    padding: 5px 20px;
+    font-weight: 600;
+    color: #1976D2;
+    font-size: 18px;
+    background-color: rgb(37, 37, 37);
+    border-radius: 30px;
+    width: fit-content;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.chat-text span {
+    color: white !important;
+    font-weight: 300;
+
+}

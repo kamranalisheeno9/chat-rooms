@@ -1,0 +1,14 @@
+.card-body {
+    width: 100%;
+}
+
+.search-bar {
+    width: 80%;
+}
+
+.join-link {
+    text-decoration: none;
+}
+.card-body{
+    text-align: center !important;
+}
